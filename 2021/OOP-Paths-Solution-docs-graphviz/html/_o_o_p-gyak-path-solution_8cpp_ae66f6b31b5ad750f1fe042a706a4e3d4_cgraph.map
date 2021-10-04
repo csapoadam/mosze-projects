@@ -1,0 +1,8 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,56,133"/>
+<area shape="rect" id="node2" href="$class_path.html#aba994cfc28aee1b9dfc667804517599b" title="getter" alt="" coords="116,5,231,32"/>
+<area shape="rect" id="node3" href="$class_path.html#a0906600ae79e989d5dcca99bc7a236a2" title="getter" alt="" coords="121,56,226,83"/>
+<area shape="rect" id="node4" href="$class_path.html#ab1e266743365caf017df6a0e305deae7" title="Ezek mind const metodusok, mert ... miert is?" alt="" coords="104,107,243,133"/>
+<area shape="rect" id="node5" href="$class_path.html#acdb42de8b3fd4131d4ceb76e3a78a7b0" title="Ennek atadhatjuk pl. az std::cout objektumot." alt="" coords="132,157,215,184"/>
+<area shape="rect" id="node6" href="$class_path.html#ab2bc5c1ad277158c6cfc3bed0931ef15" title="Sets point at a given index. Backslash sa stands for &#39;see also&#39;." alt="" coords="121,208,226,235"/>
+</map>
